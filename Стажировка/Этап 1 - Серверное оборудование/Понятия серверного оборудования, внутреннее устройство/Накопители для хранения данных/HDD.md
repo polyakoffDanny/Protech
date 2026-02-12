@@ -18,6 +18,8 @@ HDD устроен так:
 
 ![Отличия SATA и SAS коннектора на HDD](https://serverflow.ru/upload/medialibrary/ef3/e9q4tqt8mnjcx8nkz2xiqsqb6jvdkoe0/otlichiya-sata-i-sas-konnektora-na-hdd.jpg "Отличия SATA и SAS коннектора на HDD") 
 _Визуальное отличие коннекторов SAS и SATA на жестких дисках. Видно, что SAS имеет “перемычку” которая не позволяет подключить его привычным SATA кабелем._
+
+![](../../../images/HDD-12.02.2026-14_02.png)
 ### Таблица для сравнения основных характеристик SAS и SATA HDD
 
 | **Характеристика**            | **SATA HDD**                                                      | **SAS HDD**                                          |
